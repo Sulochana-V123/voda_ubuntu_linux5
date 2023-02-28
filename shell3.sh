@@ -1,4 +1,4 @@
-# Case-Switch usage (Version - 2) (with bc)
+# Case-Switch usage (Version - 2) (with bc) BC-> Best Calculator
 echo -n "Please enter the first number: "
 read num1
 echo -e "Please enter the second number: \c"
